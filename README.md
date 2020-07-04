@@ -8,7 +8,7 @@ This markdown file records all my solution of the **Database** section in Leetco
 
 ---
 **EASY**
-- [Combine Two Tables](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/Combine%20Two%20Tables.md)
+- [Combine Two Tables](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/175.%20Combine%20Two%20Tables.md)
 - [Second Highest Salary](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/176.%20Second%20Highest%20Salary.md)
 - [Employees Earning More Than Their Managers](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md)
 
