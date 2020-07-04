@@ -1,0 +1,21 @@
+# Second Highest Salary
+## Describtion
+Write a SQL query to get the second highest salary from the Employee table.
+ ```
+ +----+--------+
+| Id | Salary |
++----+--------+
+| 1  | 100    |
+| 2  | 200    |
+| 3  | 300    |
++----+--------+
+ ```
+ ## Idea
+ Find all the salary values which is not maximum salary first, and then find the maximum salary value among them.
+ ## Solution
+ ```sql
+SELECT Max(Salary) AS SecondHighestSalary 
+FROM Employee 
+WHERE Salary <> (SELECT MAX(Salary) 
+                  FROM employee);
+  ```
