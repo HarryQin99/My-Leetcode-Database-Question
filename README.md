@@ -2,7 +2,7 @@
 Question solved from Leetcode of Database
 ## Leetcode Database
 ### Introduction
-This markdown file records all my solution of the **Database** section in Leetcode.
+All my solution of the **Database** section in Leetcode.
 
 *From 04/07/2020*
 
