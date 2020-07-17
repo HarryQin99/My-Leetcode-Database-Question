@@ -18,5 +18,7 @@ All my solution of the **Database** section in Leetcode.
 - [177. Nth Highest Salary](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/177.%20Nth%20Highest%20Salary.md)
 - [178. Rank Scores](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/178.%20Rank%20Scores.md)
 - [180. Consecutive Numbers](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/180.%20Consecutive%20Numbers.md)
+- [184. Department Highest Salary](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/184.%20Department%20Highest%20Salary.md)
 
 **Hard**
+- [185. Department Top Three Salaries](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/185.%20Department%20Top%20Three%20Salaries.md)
