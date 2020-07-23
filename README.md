@@ -22,3 +22,14 @@ All my solution of the **Database** section in Leetcode.
 
 **Hard**
 - [185. Department Top Three Salaries](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/185.%20Department%20Top%20Three%20Salaries.md)
+
+## 面试题
+1. MySQL的引擎了解哪些？innodb和myisam有什么区别？memory了解吗？
+2. MySQL的锁，间隙锁，乐观锁，悲观锁怎么实现？
+3. MySQL的主从复制通过什么实现？
+4. 怎么看explain返回的信息
+5. Mysql支持索引吗？
+6. MylSam和InnDB的区别？
+7. InnoDB支持的锁有哪些？如何触发表级锁？
+8. 索引种类？
+9. SQL优化方法？
