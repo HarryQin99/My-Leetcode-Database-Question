@@ -15,6 +15,8 @@ All my solution of the **Database** section in Leetcode.
 - [183. Customers Who Never Order](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/183.%20Customers%20Who%20Never%20Order.md)
 - [196. Delete Duplicate Emails](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/196.%20Delete%20Duplicate%20Emails.md)
 - [197. Rising Temperature](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/197.%20Rising%20Temperature.md)
+- [595. Big Countries](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/595.%20Big%20Countries.md)
+- [596. Classes More Than 5 Students](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/596.%20Classes%20More%20Than%205%20Students.md)
 
 **Medium**
 - [177. Nth Highest Salary](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/177.%20Nth%20Highest%20Salary.md)
@@ -24,6 +26,7 @@ All my solution of the **Database** section in Leetcode.
 
 **Hard**
 - [185. Department Top Three Salaries](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/185.%20Department%20Top%20Three%20Salaries.md)
+- [262. Trips and Users](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/262.%20Trips%20and%20Users.md)
 
 ## 面试题
 1. MySQL的引擎了解哪些？innodb和myisam有什么区别？memory了解吗？
