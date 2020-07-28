@@ -17,12 +17,14 @@ All my solution of the **Database** section in Leetcode.
 - [197. Rising Temperature](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/197.%20Rising%20Temperature.md)
 - [595. Big Countries](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/595.%20Big%20Countries.md)
 - [596. Classes More Than 5 Students](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/596.%20Classes%20More%20Than%205%20Students.md)
+- [627. Swap Salary](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/627.%20Swap%20Salary.md)
 
 **Medium**
 - [177. Nth Highest Salary](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/177.%20Nth%20Highest%20Salary.md)
 - [178. Rank Scores](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/178.%20Rank%20Scores.md)
 - [180. Consecutive Numbers](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/180.%20Consecutive%20Numbers.md)
 - [184. Department Highest Salary](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/184.%20Department%20Highest%20Salary.md)
+- [626. Exchange Seats](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/626.%20Exchange%20Seats.md#626-exchange-seats)
 
 **Hard**
 - [185. Department Top Three Salaries](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/185.%20Department%20Top%20Three%20Salaries.md)
