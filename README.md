@@ -8,7 +8,7 @@ All my solution of the **Database** section in Leetcode.
 
 *End 28/07/2020*
 
-*Has already done all the unlocked database question*
+*Has already done all the unlocked database questions*
 
 **后期会把每道题的思考过程用中文再解释一遍**
 
