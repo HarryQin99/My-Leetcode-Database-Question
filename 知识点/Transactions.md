@@ -30,5 +30,41 @@ Occurs when one transaction calculates some aggregate functions over a set of da
 1. Lock
 + Guarantees exclusive use of a data item to a current transaction
 + Required to prevent another transaction from reading inconsistent data
+2. Timestamp
++ 对于每个transaction, 给予一个独一的timestamp. 当某一transaction想要读或者写的时候, DBMS会比较这个transaction的timestamps与最后一次写这个数据的transaction的timestamp来判断这个transaction是否可以access.
+3. Optimistic
++ Based on the assumption that the majority of database operations do not conflict.
+
+#### Lock Granularity
++ Page-level lock(Not commonly used now)
++ Row-level lock
+  + Improves data availability but with high overhead
+  + Currently the most popular approach
++ Field-level lock
+  + Most flexible lock but requires an extremely high level of overhead
+  + Not commonly used
+
+#### Types of Locks
++ Binary Locks
+  + has onlu two states: *locked* and *unlocked*
+  + eliminates "Lost Update" problem(The lock is not released until the statement is completed)
++ The locks allowed both Shared and Exclusive Lockes
+
+#### Shared and Exclusive Locks
++ Exclusive lock(写锁)
+  + must be used when transaction intends to WRITE
+  + granted if and only if no other locks are held on the data item
+  要求：加锁时没有认识其他锁在当中
++ Shared lock(读锁)
+  + other transactions are also granted Read access
+  + issued when a transaction wants to READ data, no Exclusive lock is hold on the data item
+可以存在多个读锁，但是一旦有一个写锁就无法再加任何锁
+
+#### Deadlock
+Candition that occurs when two transactions wait for each other to unlock data
++ Each waits to get a data item which the other transaction is already holding
++ Could wait forever if not dealt with
++ Only happends with exclusive locks
+
 
 
