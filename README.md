@@ -12,6 +12,10 @@ All my solution of the **Database** section in Leetcode.
 
 **后期会把每道题的思考过程用中文再解释一遍**
 
+My summary note of the **Database System**(INFO20003) of Unimelb
+
+*From 06/09/2020
+
 ---
 **EASY**
 - [175. Combine Two Tables](https://github.com/HarryQin99/My-Leetcode-Database-Question/blob/master/Problem%20Solved/175.%20Combine%20Two%20Tables.md)
