@@ -12,9 +12,11 @@ All my solution of the **Database** section in Leetcode.
 
 **后期会把每道题的思考过程用中文再解释一遍**
 
-My summary note of the **Database System**(INFO20003) of Unimelb
+My summary of the **Database System**(INFO20003) of Unimelb
 
-*From 06/09/2020
+Base on the slides and my personal note
+
+*From 06/09/2020*
 
 ---
 **EASY**
