@@ -26,6 +26,9 @@ Occurs when one transaction calculates some aggregate functions over a set of da
 + **幻读**: 一个事务两次读取一个范围的记录，两次读取的记录数不一致。
 [中文解释](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md#%E4%BA%8C%E5%B9%B6%E5%8F%91%E4%B8%80%E8%87%B4%E6%80%A7%E9%97%AE%E9%A2%98)
 
-
+### Concurrency control methods
+1. Lock
++ Guarantees exclusive use of a data item to a current transaction
++ Required to prevent another transaction from reading inconsistent data
 
 
