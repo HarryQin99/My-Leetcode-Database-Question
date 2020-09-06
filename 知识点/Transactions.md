@@ -31,7 +31,7 @@ Occurs when one transaction calculates some aggregate functions over a set of da
 + Guarantees exclusive use of a data item to a current transaction
 + Required to prevent another transaction from reading inconsistent data
 2. Timestamp
-+ 对于每个transaction, 给予一个独一的timestamp. 当某一transaction想要读或者写的时候, DBMS会比较这个transaction的timestamps与最后一次写这个数据的transaction的timestamp来判断这个transaction是否可以access.
++ 对于每个事务, 给予一个独一的t时间戳. 当某一事务想要读或者写的时候, DBMS会比较这个事务的时间戳与上一次写这个这个数据上的事务的时间戳, 也就是这个数据的W_TS(X)来判断这个事务是否可以读或写.
 3. Optimistic
 + Based on the assumption that the majority of database operations do not conflict.
 
